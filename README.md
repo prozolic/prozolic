@@ -9,8 +9,8 @@
 * [Utf8StringSplitter (UTF8 string splitting library)](https://github.com/prozolic/Utf8StringSplitter)
 
 ### Rust
-* [irospace (文字列変換)](https://github.com/prozolic/irospace)
+* [irospace (色空間変換)](https://github.com/prozolic/irospace)
 
 ### C++
-* [nandemo (色空間変換)](https://github.com/prozolic/nandemo)
+* [nandemo (文字列変換)](https://github.com/prozolic/nandemo)
 
