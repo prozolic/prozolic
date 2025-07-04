@@ -18,5 +18,5 @@
 * [nandemo (文字列変換)](https://github.com/prozolic/nandemo)
 
 ## Blog(Japanese Blog)
-* (prozolicの技術ブログかもしれない)[https://prozolic.blog/]
+* [prozolicの技術ブログかもしれない](https://prozolic.blog/)
 
