@@ -10,6 +10,7 @@
 * [CsToml (TOML Parser/Serializer for .NET)](https://github.com/prozolic/CsToml)
 * [Utf8StringSplitter (UTF8 string splitting library)](https://github.com/prozolic/Utf8StringSplitter)
 * [VariantEnum (C# Source Generator that automatically creates a Rust Enum-like record class from an Enum)](https://github.com/prozolic/VariantEnum)
+* [SortableEnum (C# Source generator that creates compile-time sorted enum arrays with zero runtime overhead.)](https://github.com/prozolic/SortableEnum)
 
 ### Rust
 * [irospace (色空間変換)](https://github.com/prozolic/irospace)
