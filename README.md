@@ -21,4 +21,5 @@
 
 ## Blog(Japanese Blog)
 * [prozolicの技術ブログかもしれない](https://prozolic.blog/)
-
+* [Zenn](https://zenn.dev/prozolic)
+* [Qiita](https://qiita.com/prozolic)
