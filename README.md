@@ -19,7 +19,10 @@
 ### C++
 * [nandemo (文字列変換)](https://github.com/prozolic/nandemo)
 
+## Web site(Japanese)
+* [PRDigest.NET](https://prozolic.github.io/PRDigest.NET)
+
 ## Blog(Japanese Blog)
-* [prozolicの技術ブログかもしれない](https://prozolic.blog/)
 * [Zenn](https://zenn.dev/prozolic)
+* [prozolicの技術ブログかもしれない](https://prozolic.blog/)
 * [Qiita](https://qiita.com/prozolic)
